@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/product-opportunity-assesment-form/static/css/main.5f361e03.chunk.css",
+    "main.js": "/product-opportunity-assesment-form/static/js/main.4da6a53e.chunk.js",
+    "main.js.map": "/product-opportunity-assesment-form/static/js/main.4da6a53e.chunk.js.map",
+    "runtime-main.js": "/product-opportunity-assesment-form/static/js/runtime-main.ef5092dd.js",
+    "runtime-main.js.map": "/product-opportunity-assesment-form/static/js/runtime-main.ef5092dd.js.map",
+    "static/js/2.c0129143.chunk.js": "/product-opportunity-assesment-form/static/js/2.c0129143.chunk.js",
+    "static/js/2.c0129143.chunk.js.map": "/product-opportunity-assesment-form/static/js/2.c0129143.chunk.js.map",
+    "index.html": "/product-opportunity-assesment-form/index.html",
+    "precache-manifest.4c48ada02a09d43c3f641730f5bea961.js": "/product-opportunity-assesment-form/precache-manifest.4c48ada02a09d43c3f641730f5bea961.js",
+    "service-worker.js": "/product-opportunity-assesment-form/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/product-opportunity-assesment-form/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c0129143.chunk.js.LICENSE.txt": "/product-opportunity-assesment-form/static/js/2.c0129143.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/product-opportunity-assesment-form/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef5092dd.js",
+    "static/js/2.c0129143.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4da6a53e.chunk.js"
+  ]
+}
